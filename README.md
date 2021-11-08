@@ -1,11 +1,14 @@
 # リポジトリの目的
 php/symfonyの学習
 
+## php
+* [文法](./doc/grammer.md)
+
 ## tutorial
 * [setup](./doc/setup.md)
 * [create page](./doc/createpage.md)
 * [route](./doc/route.md)
-* []()
+* [controller](./doc/controller.md)
 * []()
 
 ## important
